@@ -1,0 +1,21 @@
+#header {
+    background: #ccc;
+    height: 50px;
+}
+
+.sidebar{ 
+    background: #666;
+    margin: 0;
+    padding: 5px;
+}
+
+#footer {
+    background: #333;
+    color: #fff;
+    height: 50px;
+}
+
+.news {
+ 
+    border: 1px solid red;
+}
